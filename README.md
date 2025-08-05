@@ -1,20 +1,18 @@
 # Alex Chen 💻
 
 ```bash
+![Profile Views](https://komarev.com/ghpvc/?username=alexchen&color=00ff88&style=flat-square&label=Profile+Views)
 $ whoami
 ```
-**Senior Backend Engineer** 🚀
+**Backend Developer** 🚀
 
 ```bash
 $ skills
 ```
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+# ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ---
 
 ```bash
@@ -25,20 +23,20 @@ $ contact --info
 ```bash
 $ location --current
 ```
-📍 **San Francisco, CA**
+📍 **Uzbekistan, Namangan**
 
 ```bash
 $ contact --email
 ```
-📧 **alex.chen@example.com**
+📧 **behruzbekzokiraliyev@gmail.com**
 
 ```bash
 $ ls ./social-links
 ```
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexchen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexchen)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/alexchen)
-
+# [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexchen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/behruzbek-zokiraliyev-34147b370/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/behruzbekzokiraliyev)
+# [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/alexchen)
 ---
 
 ```bash
@@ -52,18 +50,3 @@ $ cat stats.json
 ---
 
 ```bash
-$ git log --oneline
-```
-- 🔭 Currently working on **microservices architecture**
-- 🌱 Learning **Rust** and **WebAssembly**
-- 👯 Looking to collaborate on **open source projects**
-- 💬 Ask me about **backend development** and **cloud architecture**
-- ⚡ Fun fact: I debug with `console.log()` and I'm not ashamed! 😄
-
----
-
-```bash
-$ echo "Thanks for visiting! 👋"
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=alexchen&color=00ff88&style=flat-square&label=Profile+Views)
