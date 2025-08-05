@@ -36,8 +36,3 @@ $ ls ./social-links
 ---
 
 ```bash
-$ cat stats.json
-```
----
-
-```bash
