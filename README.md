@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👨‍💻 Behruzbek Zokiraliyev
 
-<!--
-**ZokiraliyevBehruzbek/ZokiraliyevBehruzbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`$ whoami`  
+**Behruzbek Zokiraliyev**  
+_Backend Developer_
 
-Here are some ideas to get you started:
+`$ skills`
+- Python
+- Django
+- Flask
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+`$ contact --info`
+
+📍 Uzbekistan, Namangan  
+📧 behruzbekzokiraliyev@gmail.com
+
+📄 [Resume (soon)](#)
+
+---
+
+`$ ls ./social-links`
+
+- [LinkedIn - Behruzbek Zokiraliyev](https://www.linkedin.com/in/behruzbek-zokiraliyev-34147b370/)
+- [Telegram - @behruzbekZokiraliyev](https://t.me/behruzbekZokiraliyev)
