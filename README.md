@@ -1,6 +1,5 @@
 # Behruzbek Zokiraliyev 
 
-# ![Profile Views](https://komarev.com/ghpvc/?username=alexchen&color=00ff88&style=flat-square&label=Profile+Views)
 ```bash
 $ whoami
 ```
