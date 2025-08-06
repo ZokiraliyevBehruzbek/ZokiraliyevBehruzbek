@@ -1,8 +1,9 @@
-# Behruzbek Zokiraliyev 
+
 
 ```bash
 $ whoami
 ```
+# Behruzbek Zokiraliyev 
 **Backend Developer** 🚀
 
 ```bash
